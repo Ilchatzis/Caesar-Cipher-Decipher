@@ -1,5 +1,5 @@
 # Caesar-Cipher-Decipher
-This executable is a CLI program written in C, with the purpose to encrypt and decrypt text messages using the Caesar Cipher.
+This simple program written in C, with the purpose to encrypt and decrypt text messages using the Caesar Cipher.
 
 # How it works
 Invented by Julius Caesar, this encryption technique substitutes each letter of a plain text into another letter of the alphabet. The latter is determined by the <b>key</b> provided.
